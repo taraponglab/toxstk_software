@@ -1,4 +1,4 @@
-# Under review in Computers in Biology and Medicine Journal.
+Under review in Computers in Biology and Medicine Journal.
 # ToxSTK: A Multi-Target Toxicity Assessment Utilizing Molecular Structure and Stacking Ensemble Learning.
 ![graphical abstract](graphical_abstract.jpg)
 
